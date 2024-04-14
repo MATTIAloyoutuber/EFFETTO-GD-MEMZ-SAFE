@@ -1,0 +1,7 @@
+D:\c#\GDI MEMZ SAFE\GDI MEMZ SAFE\bin\Debug\GDI MEMZ SAFE.exe.config
+D:\c#\GDI MEMZ SAFE\GDI MEMZ SAFE\bin\Debug\GDI MEMZ SAFE.exe
+D:\c#\GDI MEMZ SAFE\GDI MEMZ SAFE\bin\Debug\GDI MEMZ SAFE.pdb
+D:\c#\GDI MEMZ SAFE\GDI MEMZ SAFE\obj\Debug\GDI MEMZ SAFE.csproj.AssemblyReference.cache
+D:\c#\GDI MEMZ SAFE\GDI MEMZ SAFE\obj\Debug\GDI MEMZ SAFE.csproj.CoreCompileInputs.cache
+D:\c#\GDI MEMZ SAFE\GDI MEMZ SAFE\obj\Debug\GDI MEMZ SAFE.exe
+D:\c#\GDI MEMZ SAFE\GDI MEMZ SAFE\obj\Debug\GDI MEMZ SAFE.pdb
